@@ -4454,3 +4454,6 @@ at middle of screen */
   justify-content: center;
   padding-bottom: 3rem;
 }
+.navbarSupportedContent{
+  max-height: 100%;
+}
